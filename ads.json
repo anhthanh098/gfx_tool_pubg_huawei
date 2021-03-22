@@ -1,0 +1,39 @@
+{
+  "ads": {
+    "id_app": "",
+    "flury_id": "",
+    "banner_setting": "tzhehe",
+    "inter_setting": "tzhehe",
+    "banner_main": "tzhehe",
+    "inter_main": "tzhehe",
+    "banner_setting_new" : "tzhehe",
+    "inter_setting_new" : "tzhehe",
+    "banner_main_new" : "tzhehe",
+    "inter_main_new" : "tzhehe",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "",
+    "fb_inter": ""
+  },
+  "isExit": true,
+  "showMoreApp": false,
+  "idNew": "",
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+   "is_exists": true,
+    "is_show_more": true,
+    "isLoading": false,
+    "isShowAds": false
+  },
+  "apps": [
+   {
+     "id": "com.instagram.add.follow.fan.like.analysis.app",
+      "icon": "https://lh3.googleusercontent.com/d1fdyRBS4MdqFM8cHnVeFObogy0O1GMXYp8eEP0sNkHoZx3TFae8Re7EL16jeYt-xKw=s180-rw",
+      "name": "Get Likes & Followers for Instagram 2020",
+      "des": "Likes, Followers for Instragram 2020 : Gain and Boost more Fans & Followers. Get discovered quickly - boost your profile views and engagement and real likes followers.",
+      "s1":"https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1366-h576-rw",
+      "s2":"https://lh3.googleusercontent.com/FfLXz4RouMyD9lVZZSK0CxKC_07INg_uJnFmenArU_RRBmqH6bkZArBMSu-p5zYnSA=w1366-h576-rw",
+      "s3":"https://lh3.googleusercontent.com/HHfDxxt5ALlJq0XenO4M6B2bsk68x1SEJf8-fHd-oG_htAjuEE9OADsY0KHi5fz3psw=w1366-h576-rw"
+    }
+  ]
+}
